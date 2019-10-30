@@ -6,6 +6,6 @@
 2019-10-30: あああああ     
 2019-10-30: いいいいい
 
-# 数式も書けるよ！
+## 数式も書けるよ！
 <img src="https://latex.codecogs.com/gif.latex?\(a+b)^2=a^2+2ab+b^2" />
 
